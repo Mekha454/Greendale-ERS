@@ -1,0 +1,16 @@
+17:07:52.092 [main] INFO  io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+17:07:52.103 [main] DEBUG org.eclipse.jetty.util.log - Logging to Logger[org.eclipse.jetty.util.log] via org.eclipse.jetty.util.log.Slf4jLog
+17:07:52.118 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @494ms to org.eclipse.jetty.util.log.Slf4jLog
+17:07:52.119 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+17:07:52.138 [main] INFO  io.javalin.Javalin - You are running Javalin 4.2.0 (released January 2, 2022).
+17:07:52.380 [main] INFO  io.javalin.Javalin - Listening on http://localhost:8000/
+17:07:52.380 [main] INFO  io.javalin.Javalin - Javalin started in 261ms \o/
+17:07:52.396 [main] INFO  io.javalin.Javalin - Static file handler added: StaticFileConfig(hostedPath=/, directory=/static, location=CLASSPATH, precompress=false, aliasCheck=null, headers={Cache-Control=max-age=0}, skipFileFunction=Function1<javax.servlet.http.HttpServletRequest, java.lang.Boolean>). File system location: 'file:///C:/Users/felwo/Desktop/Revature/NewGitRepo/ProjectOne/target/classes/static/'
